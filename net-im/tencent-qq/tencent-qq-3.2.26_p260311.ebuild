@@ -48,6 +48,7 @@ RDEPEND="
 	media-libs/openslide
 	media-libs/alsa-lib
 	media-libs/libpulse
+	media-libs/vips
 	system-fdk-aac? ( media-libs/fdk-aac )
 	system-libssh2? ( net-libs/libssh2 )
 	system-openh264? ( media-libs/openh264 )
